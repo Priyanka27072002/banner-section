@@ -1,0 +1,17 @@
+/*mobile*/
+@media(min-width:320px){
+						.container{width:100%;}
+						
+}
+/*ipad*/
+@media(min-width:650px){
+						.container{width:100%;}
+
+
+						
+}
+/*laptop*/
+@media(min-width:1000px){
+						.container{width:50%;}
+					
+}
